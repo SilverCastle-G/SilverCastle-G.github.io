@@ -20,7 +20,7 @@ title                    : "PRIVATE STAGE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김은성"
-description              : "취미생"
+description              : "취미생활"
 url                      : # the base hostname & protocol for your site e.g. "http://SilverCastle-G.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "SilverCastle-G/SilverCastle-G.github.io"
